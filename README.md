@@ -2,6 +2,7 @@
 CS50P - Introduction to Programming with Python by HarvardX
 ---
 Problem Set 0:<br>
+[Indoor Voice](/ProblemSet0/indoor.py)
 <ol>
   <li>[Indoor Voice](/ProblemSet0/indoor.py)</li>
   <li>[Playback Speed](ProblemSet0/playback.py)</li>
