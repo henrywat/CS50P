@@ -1,5 +1,5 @@
 # HarvardX - CS50P
-CS50P - Introduction to Programming with Python by HarvardX
+Introduction to Programming with Python
 ---
 Problem Set 0 - Functions, Variables<br>
 [Indoor Voice](/ProblemSet0/indoor.py)<br>
