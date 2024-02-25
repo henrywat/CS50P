@@ -1,4 +1,4 @@
-# CS50P
+# HarvardX - CS50P
 CS50P - Introduction to Programming with Python by HarvardX
 ---
 Problem Set 0 - Functions, Variables<br>
