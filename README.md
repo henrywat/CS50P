@@ -1,7 +1,9 @@
 # HarvardX - CS50P
 Introduction to Programming with Python
+
 ---
-Problem Set 0 - Functions, Variables<br>
+
+## Problem Set 0 - Functions, Variables<br>
 [Indoor Voice](/ProblemSet0/indoor.py)<br>
 ![](/ProblemSet0/indoor.png)
 [Playback Speed](/ProblemSet0/playback.py)<br>
@@ -12,8 +14,10 @@ Problem Set 0 - Functions, Variables<br>
 ![](/ProblemSet0/einstein.png)
 [Tip Calculator](/ProblemSet0/tip.py)<br>
 ![](/ProblemSet0/tip.png)
+
 ---
-Problem Set 1 - Conitionals<br>
+
+## Problem Set 1 - Conitionals<br>
 [Deep Thought](/ProblemSet1/deep.py)<br>
 ![](/ProblemSet1/deep.png)
 [Home Federal Savings Bank](/ProblemSet1/bank.py)<br>
@@ -24,8 +28,10 @@ Problem Set 1 - Conitionals<br>
 ![](/ProblemSet1/interpreter.png)
 [Meal Time](/ProblemSet1/meal.py)<br>
 ![](/ProblemSet1/meal.png)
+
 ---
-Problem Set 2 - Loops<br>
+
+## Problem Set 2 - Loops<br>
 [camelCase](/ProblemSet2/camel.py)<br>
 ![](/ProblemSet2/camel.png)
 [Coke Machine](/ProblemSet2/coke.py)<br>
@@ -36,8 +42,10 @@ Problem Set 2 - Loops<br>
 ![](/ProblemSet2/plates.png)
 [Nutrition Facts](/ProblemSet2/nutrition.py)<br>
 ![](/ProblemSet2/nutrition.png)
+
 ---
-Problem Set 3 - Exceptions<br>
+
+## Problem Set 3 - Exceptions<br>
 [Fuel Gauge](/ProblemSet3/fuel.py)<br>
 ![](/ProblemSet3/fuel.png)
 [Felipe's Taqueria](/ProblemSet3/taqueria.py)<br>
@@ -45,8 +53,10 @@ Problem Set 3 - Exceptions<br>
 ![](/ProblemSet3/grocery.png)
 [Outdated](/ProblemSet3/outdated.py)<br>
 ![](/ProblemSet3/outdated.png)
+
 ---
-Problem Set 4 - Libraries<br>
+
+## Problem Set 4 - Libraries<br>
 [Emojize](/ProblemSet4/emojize.py)<br>
 ![](/ProblemSet4/emojize.png)
 [Frank, Ian and Glen's Letters](/ProblemSet4/figlet.py)<br>
@@ -61,7 +71,8 @@ Problem Set 4 - Libraries<br>
 ![](/ProblemSet4/bitcoin.png)
 
 ---
-Problem Set 5 - Unti Tests<br>
+
+## Problem Set 5 - Unti Tests<br>
 [Testing my twttr](/ProblemSet5/test_twttr.py)<br>
 ![](/ProblemSet5/test_twttr.png)
 [Back to the Bank](/ProblemSet5/test_bank.py)<br>
@@ -72,7 +83,8 @@ Problem Set 5 - Unti Tests<br>
 ![](/ProblemSet5/test_fuel.png)
 
 ---
-Problem Set 6 - File I/O<br>
+
+## Problem Set 6 - File I/O<br>
 [Lines of Code](/ProblemSet6/lines.py)<br>
 ![](/ProblemSet6/lines.png)
 [Pizza Py](/ProblemSet6/pizza.py)<br>
@@ -83,7 +95,8 @@ Problem Set 6 - File I/O<br>
 ![](/ProblemSet6/scourgify.png)
 
 ---
-Problem Set 7 - Regular Expressions<br>
+
+## Problem Set 7 - Regular Expressions<br>
 [NUMB3RS](/ProblemSet7/numb3rs.py)<br>
 ![](/ProblemSet7/numb3rs.png)
 [Watch on YouTube](/ProblemSet7/watch.py)<br>
@@ -96,7 +109,8 @@ Problem Set 7 - Regular Expressions<br>
 ![](/ProblemSet7/response.png)
 
 ---
-Problem Set 8 - Object-Oriented Programming<br>
+
+## Problem Set 8 - Object-Oriented Programming<br>
 [Seasons of Love](/ProblemSet8/seasons.py)<br>
 ![](/ProblemSet8/seasons.png)
 [Cookie Jar](/ProblemSet8/jar.py)<br>
@@ -106,6 +120,7 @@ Problem Set 8 - Object-Oriented Programming<br>
 ![](/ProblemSet8/shirtificateHW.png)
 
 ---
-Problem Set 9 - Et Cetera<br>
+
+## Problem Set 9 - Et Cetera<br>
 [](/ProblemSet9/.py)<br>
 ![](/ProblemSet9/.png)
