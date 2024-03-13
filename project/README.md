@@ -4,7 +4,7 @@
 ## by Henry Wat (henrywat@gmail.com)
 ## 12 March 2024
 
-#### Video Demo:  <URL HERE>
+#### Video Demo: [https://www.youtube.com/watch?v=weX9Vc48Mvo](https://www.youtube.com/watch?v=weX9Vc48Mvo)
 
 #### Description: The objectives of this project is calling OpenWeatherMap API to provide weather forecast with in 5 days to user.
 
@@ -43,4 +43,16 @@ Try again? (y/n): n
 2. Open the project.py and update the API key of your own.
 - API_KEY = '{your_API_key}'
 
+3. execute the project.py file.
 
+---
+
+### Program explanation:
+
+**main()** - get user input of country and date via CLI, pass to 'validate_date' function for date format checking, then call the '*fetch_weather_data*' and display corresponding data.
+
+**validate_date(String date_str)** - return True if the date_str in the format 'YYYY-MM-DD' only.
+
+**fetch_weather_data(String location, String the_date)** - send requests to OpenWeatherMap API and pass the desired data to '*format_weather_data*' for output formatting.
+
+**format_weather_data(String weather_data)** - extract data from json string and return formatted output to '*main()*'
