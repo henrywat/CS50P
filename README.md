@@ -1,6 +1,8 @@
 # HarvardX - CS50P
 Introduction to Programming with Python
 
+## [Final Project](https://github.com/henrywat/HarvadX-CS50P/tree/main/project)
+
 ---
 
 ## Problem Set 0 - Functions, Variables<br>
@@ -120,7 +122,3 @@ Introduction to Programming with Python
 ![](/ProblemSet8/shirtificateHW.png)
 
 ---
-
-## Problem Set 9 - Et Cetera<br>
-[](/ProblemSet9/.py)<br>
-![](/ProblemSet9/.png)
