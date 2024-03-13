@@ -1,0 +1,1109 @@
+<?xml version="1.0" standalone="no"?>
+<mlt LC_NUMERIC="C" version="7.23.0" title="Shotcut version 24.02.29" producer="main_bin">
+  <profile description="PAL 4:3 DV or DVD" width="1920" height="1080" progressive="1" sample_aspect_num="1" sample_aspect_den="1" display_aspect_num="16" display_aspect_den="9" frame_rate_num="25" frame_rate_den="1" colorspace="709"/>
+  <chain id="chain0" out="00:00:14.280">
+    <property name="length">00:00:14.320</property>
+    <property name="eof">pause</property>
+    <property name="resource">slides/Slide1.mp3</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="meta.media.nb_streams">1</property>
+    <property name="meta.media.0.stream.type">audio</property>
+    <property name="meta.media.0.codec.sample_fmt">fltp</property>
+    <property name="meta.media.0.codec.sample_rate">24000</property>
+    <property name="meta.media.0.codec.channels">1</property>
+    <property name="meta.media.0.codec.name">mp3float</property>
+    <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+    <property name="meta.media.0.codec.bit_rate">48000</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="astream">0</property>
+    <property name="creation_time">2024-03-13T00:39:39</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="shotcut:hash">bda20e9125dc352cd32b58541ef78b73</property>
+    <property name="ignore_points">1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">Slide1.mp3</property>
+  </chain>
+  <producer id="producer0" in="00:00:00.000" out="00:00:03.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">slides/Slide1.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="meta.media.progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">1</property>
+    <property name="meta.media.width">720</property>
+    <property name="meta.media.height">405</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2024-03-13T00:03:38</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">e7bbdfc0b9ff505445d8670bd4f771ee</property>
+    <property name="shotcut:caption">Slide1.png</property>
+    <property name="ignore_points">1</property>
+  </producer>
+  <chain id="chain1" out="00:00:12.640">
+    <property name="length">00:00:12.680</property>
+    <property name="eof">pause</property>
+    <property name="resource">slides/Slide2.mp3</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="meta.media.nb_streams">1</property>
+    <property name="meta.media.0.stream.type">audio</property>
+    <property name="meta.media.0.codec.sample_fmt">fltp</property>
+    <property name="meta.media.0.codec.sample_rate">24000</property>
+    <property name="meta.media.0.codec.channels">1</property>
+    <property name="meta.media.0.codec.name">mp3float</property>
+    <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+    <property name="meta.media.0.codec.bit_rate">48000</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="creation_time">2024-03-13T00:24:50</property>
+    <property name="astream">0</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">73b4ff9afde3b239b2838e5e3989f806</property>
+    <property name="ignore_points">1</property>
+    <property name="shotcut:caption">Slide2.mp3</property>
+  </chain>
+  <producer id="producer1" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">slides/Slide2.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="meta.media.progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">1</property>
+    <property name="meta.media.width">720</property>
+    <property name="meta.media.height">405</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2024-03-13T00:03:38</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">419429086e478375d576ce548e11457b</property>
+  </producer>
+  <chain id="chain2" out="00:00:09.120">
+    <property name="length">00:00:09.160</property>
+    <property name="eof">pause</property>
+    <property name="resource">slides/Slide3.mp3</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="meta.media.nb_streams">1</property>
+    <property name="meta.media.0.stream.type">audio</property>
+    <property name="meta.media.0.codec.sample_fmt">fltp</property>
+    <property name="meta.media.0.codec.sample_rate">24000</property>
+    <property name="meta.media.0.codec.channels">1</property>
+    <property name="meta.media.0.codec.name">mp3float</property>
+    <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+    <property name="meta.media.0.codec.bit_rate">48000</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="creation_time">2024-03-13T00:21:18</property>
+    <property name="astream">0</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">0ca241b54e70ff566785567ba6633ab5</property>
+    <property name="ignore_points">1</property>
+    <property name="shotcut:caption">Slide3.mp3</property>
+  </chain>
+  <producer id="producer2" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">slides/Slide3.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="meta.media.progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">1</property>
+    <property name="meta.media.width">720</property>
+    <property name="meta.media.height">405</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2024-03-13T00:03:38</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">015acfcb1cbe49d0c277aefb9e188f20</property>
+  </producer>
+  <chain id="chain3" out="00:00:20.960">
+    <property name="length">00:00:21.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">slides/Slide4.mp3</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="meta.media.nb_streams">1</property>
+    <property name="meta.media.0.stream.type">audio</property>
+    <property name="meta.media.0.codec.sample_fmt">fltp</property>
+    <property name="meta.media.0.codec.sample_rate">24000</property>
+    <property name="meta.media.0.codec.channels">1</property>
+    <property name="meta.media.0.codec.name">mp3float</property>
+    <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+    <property name="meta.media.0.codec.bit_rate">48000</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="creation_time">2024-03-13T00:27:55</property>
+    <property name="astream">0</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">145974e521dcf18f99f945bc1c5595fe</property>
+    <property name="ignore_points">1</property>
+    <property name="shotcut:caption">Slide4.mp3</property>
+  </chain>
+  <producer id="producer3" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">slides/Slide4.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="meta.media.progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">1</property>
+    <property name="meta.media.width">720</property>
+    <property name="meta.media.height">405</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2024-03-13T00:03:38</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">59625a5a439abda85e049cf13676456f</property>
+  </producer>
+  <chain id="chain4" out="00:00:10.080">
+    <property name="length">00:00:10.120</property>
+    <property name="eof">pause</property>
+    <property name="resource">slides/Slide5.mp3</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="meta.media.nb_streams">1</property>
+    <property name="meta.media.0.stream.type">audio</property>
+    <property name="meta.media.0.codec.sample_fmt">fltp</property>
+    <property name="meta.media.0.codec.sample_rate">24000</property>
+    <property name="meta.media.0.codec.channels">1</property>
+    <property name="meta.media.0.codec.name">mp3float</property>
+    <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+    <property name="meta.media.0.codec.bit_rate">48000</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="creation_time">2024-03-13T00:28:41</property>
+    <property name="astream">0</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">67bd31f9d7a79a9a9c9fa6ef8fffdc9a</property>
+    <property name="ignore_points">1</property>
+    <property name="shotcut:caption">Slide5.mp3</property>
+  </chain>
+  <producer id="producer4" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">slides/Slide5.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="meta.media.progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">1</property>
+    <property name="meta.media.width">720</property>
+    <property name="meta.media.height">405</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2024-03-13T00:03:38</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">3bdae0661902c939e0e32ef9ba2dc2a3</property>
+  </producer>
+  <chain id="chain5" out="00:00:09.040">
+    <property name="length">00:00:09.080</property>
+    <property name="eof">pause</property>
+    <property name="resource">slides/Slide6.mp3</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="meta.media.nb_streams">1</property>
+    <property name="meta.media.0.stream.type">audio</property>
+    <property name="meta.media.0.codec.sample_fmt">fltp</property>
+    <property name="meta.media.0.codec.sample_rate">24000</property>
+    <property name="meta.media.0.codec.channels">1</property>
+    <property name="meta.media.0.codec.name">mp3float</property>
+    <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+    <property name="meta.media.0.codec.bit_rate">48000</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="creation_time">2024-03-13T00:29:29</property>
+    <property name="astream">0</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">a1b5af5a692e174ab6548a3e1b8a6f5d</property>
+    <property name="ignore_points">1</property>
+    <property name="shotcut:caption">Slide6.mp3</property>
+  </chain>
+  <producer id="producer5" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">slides/Slide6.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="meta.media.progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">1</property>
+    <property name="meta.media.width">720</property>
+    <property name="meta.media.height">405</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2024-03-13T00:03:38</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">d263d4119e104d951684ed566ebd7d80</property>
+  </producer>
+  <chain id="chain6" out="00:00:08.800">
+    <property name="length">00:00:08.840</property>
+    <property name="eof">pause</property>
+    <property name="resource">slides/Slide7.mp3</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="meta.media.nb_streams">1</property>
+    <property name="meta.media.0.stream.type">audio</property>
+    <property name="meta.media.0.codec.sample_fmt">fltp</property>
+    <property name="meta.media.0.codec.sample_rate">24000</property>
+    <property name="meta.media.0.codec.channels">1</property>
+    <property name="meta.media.0.codec.name">mp3float</property>
+    <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+    <property name="meta.media.0.codec.bit_rate">48000</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="creation_time">2024-03-13T00:31:04</property>
+    <property name="astream">0</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">41b309e39dcd2709d893f19cf5596e0f</property>
+    <property name="ignore_points">1</property>
+    <property name="shotcut:caption">Slide7.mp3</property>
+  </chain>
+  <producer id="producer6" in="00:00:00.000" out="00:00:03.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">slides/Slide7.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="meta.media.progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">1</property>
+    <property name="meta.media.width">720</property>
+    <property name="meta.media.height">405</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2024-03-13T00:03:38</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">a386c5e12f6134aebf9afbcd68a13a5d</property>
+    <property name="shotcut:caption">Slide7.png</property>
+    <property name="ignore_points">1</property>
+  </producer>
+  <chain id="chain7" out="00:00:44.720">
+    <property name="length">00:00:44.760</property>
+    <property name="eof">pause</property>
+    <property name="resource">slides/Slide8.mp3</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="meta.media.nb_streams">1</property>
+    <property name="meta.media.0.stream.type">audio</property>
+    <property name="meta.media.0.codec.sample_fmt">fltp</property>
+    <property name="meta.media.0.codec.sample_rate">24000</property>
+    <property name="meta.media.0.codec.channels">1</property>
+    <property name="meta.media.0.codec.name">mp3float</property>
+    <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+    <property name="meta.media.0.codec.bit_rate">48000</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="creation_time">2024-03-13T00:32:39</property>
+    <property name="astream">0</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">65927e7ef07c97c12a406cff6a29096b</property>
+    <property name="ignore_points">1</property>
+    <property name="shotcut:caption">Slide8.mp3</property>
+  </chain>
+  <producer id="producer7" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">slides/Slide8.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="meta.media.progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">1</property>
+    <property name="meta.media.width">720</property>
+    <property name="meta.media.height">405</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2024-03-13T00:03:38</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">86a2872c9458e213723578a910043c2f</property>
+  </producer>
+  <chain id="chain8" out="00:00:04.960">
+    <property name="length">00:00:05.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">slides/Slide9.mp3</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="meta.media.nb_streams">1</property>
+    <property name="meta.media.0.stream.type">audio</property>
+    <property name="meta.media.0.codec.sample_fmt">fltp</property>
+    <property name="meta.media.0.codec.sample_rate">24000</property>
+    <property name="meta.media.0.codec.channels">1</property>
+    <property name="meta.media.0.codec.name">mp3float</property>
+    <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+    <property name="meta.media.0.codec.bit_rate">48000</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="creation_time">2024-03-13T00:33:01</property>
+    <property name="astream">0</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">0ef61edf0d59f8fb284294bb3bafa1b4</property>
+    <property name="ignore_points">1</property>
+    <property name="shotcut:caption">Slide9.mp3</property>
+  </chain>
+  <producer id="producer8" in="00:00:00.000" out="00:00:03.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">slides/Slide9.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="meta.media.progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">1</property>
+    <property name="meta.media.width">720</property>
+    <property name="meta.media.height">405</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2024-03-13T00:03:38</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">b4b68054d2aee12c5f4f000f745deadb</property>
+    <property name="shotcut:caption">Slide9.png</property>
+    <property name="ignore_points">1</property>
+  </producer>
+  <chain id="chain9" out="00:00:03.040">
+    <property name="length">00:00:03.080</property>
+    <property name="eof">pause</property>
+    <property name="resource">slides/Slide10.mp3</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="meta.media.nb_streams">1</property>
+    <property name="meta.media.0.stream.type">audio</property>
+    <property name="meta.media.0.codec.sample_fmt">fltp</property>
+    <property name="meta.media.0.codec.sample_rate">24000</property>
+    <property name="meta.media.0.codec.channels">1</property>
+    <property name="meta.media.0.codec.name">mp3float</property>
+    <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+    <property name="meta.media.0.codec.bit_rate">48000</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="creation_time">2024-03-13T00:33:22</property>
+    <property name="astream">0</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">fbafe4a734e1ea36f136f3e8231b33c1</property>
+    <property name="ignore_points">1</property>
+    <property name="shotcut:caption">Slide10.mp3</property>
+  </chain>
+  <producer id="producer9" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">slides/Slide10.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="meta.media.progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">1</property>
+    <property name="meta.media.width">720</property>
+    <property name="meta.media.height">405</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2024-03-13T00:03:38</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">af6d143e2337b227f188164a8baba876</property>
+  </producer>
+  <playlist id="main_bin">
+    <property name="xml_retain">1</property>
+    <entry producer="chain0" in="00:00:00.000" out="00:00:14.280"/>
+    <entry producer="producer0" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="chain1" in="00:00:00.000" out="00:00:12.640"/>
+    <entry producer="producer1" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="chain2" in="00:00:00.000" out="00:00:09.120"/>
+    <entry producer="producer2" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="chain3" in="00:00:00.000" out="00:00:20.960"/>
+    <entry producer="producer3" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="chain4" in="00:00:00.000" out="00:00:10.080"/>
+    <entry producer="producer4" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="chain5" in="00:00:00.000" out="00:00:09.040"/>
+    <entry producer="producer5" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="chain6" in="00:00:00.000" out="00:00:08.800"/>
+    <entry producer="producer6" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="chain7" in="00:00:00.000" out="00:00:44.720"/>
+    <entry producer="producer7" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="chain8" in="00:00:00.000" out="00:00:04.960"/>
+    <entry producer="producer8" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="chain9" in="00:00:00.000" out="00:00:03.040"/>
+    <entry producer="producer9" in="00:00:00.000" out="00:00:03.960"/>
+  </playlist>
+  <producer id="black" in="00:00:00.000" out="00:02:52.960">
+    <property name="length">00:02:53.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">0</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgba</property>
+    <property name="set.test_audio">0</property>
+  </producer>
+  <playlist id="background">
+    <entry producer="black" in="00:00:00.000" out="00:02:52.960"/>
+  </playlist>
+  <chain id="chain10" out="00:00:14.280">
+    <property name="length">00:00:14.320</property>
+    <property name="eof">pause</property>
+    <property name="resource">slides/Slide1.mp3</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="meta.media.nb_streams">1</property>
+    <property name="meta.media.0.stream.type">audio</property>
+    <property name="meta.media.0.codec.sample_fmt">fltp</property>
+    <property name="meta.media.0.codec.sample_rate">24000</property>
+    <property name="meta.media.0.codec.channels">1</property>
+    <property name="meta.media.0.codec.name">mp3float</property>
+    <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+    <property name="meta.media.0.codec.bit_rate">48000</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="astream">0</property>
+    <property name="creation_time">2024-03-13T00:39:39</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="shotcut:hash">bda20e9125dc352cd32b58541ef78b73</property>
+    <property name="ignore_points">1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">Slide1.mp3</property>
+  </chain>
+  <chain id="chain11" out="00:00:12.640">
+    <property name="length">00:00:12.680</property>
+    <property name="eof">pause</property>
+    <property name="resource">slides/Slide2.mp3</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="meta.media.nb_streams">1</property>
+    <property name="meta.media.0.stream.type">audio</property>
+    <property name="meta.media.0.codec.sample_fmt">fltp</property>
+    <property name="meta.media.0.codec.sample_rate">24000</property>
+    <property name="meta.media.0.codec.channels">1</property>
+    <property name="meta.media.0.codec.name">mp3float</property>
+    <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+    <property name="meta.media.0.codec.bit_rate">48000</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="creation_time">2024-03-13T00:24:50</property>
+    <property name="astream">0</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">73b4ff9afde3b239b2838e5e3989f806</property>
+    <property name="ignore_points">1</property>
+    <property name="shotcut:caption">Slide2.mp3</property>
+  </chain>
+  <chain id="chain12" out="00:00:09.120">
+    <property name="length">00:00:09.160</property>
+    <property name="eof">pause</property>
+    <property name="resource">slides/Slide3.mp3</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="meta.media.nb_streams">1</property>
+    <property name="meta.media.0.stream.type">audio</property>
+    <property name="meta.media.0.codec.sample_fmt">fltp</property>
+    <property name="meta.media.0.codec.sample_rate">24000</property>
+    <property name="meta.media.0.codec.channels">1</property>
+    <property name="meta.media.0.codec.name">mp3float</property>
+    <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+    <property name="meta.media.0.codec.bit_rate">48000</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="creation_time">2024-03-13T00:21:18</property>
+    <property name="astream">0</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">0ca241b54e70ff566785567ba6633ab5</property>
+    <property name="ignore_points">1</property>
+    <property name="shotcut:caption">Slide3.mp3</property>
+  </chain>
+  <chain id="chain13" out="00:00:20.960">
+    <property name="length">00:00:21.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">slides/Slide4.mp3</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="meta.media.nb_streams">1</property>
+    <property name="meta.media.0.stream.type">audio</property>
+    <property name="meta.media.0.codec.sample_fmt">fltp</property>
+    <property name="meta.media.0.codec.sample_rate">24000</property>
+    <property name="meta.media.0.codec.channels">1</property>
+    <property name="meta.media.0.codec.name">mp3float</property>
+    <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+    <property name="meta.media.0.codec.bit_rate">48000</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="creation_time">2024-03-13T00:27:55</property>
+    <property name="astream">0</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">145974e521dcf18f99f945bc1c5595fe</property>
+    <property name="ignore_points">1</property>
+    <property name="shotcut:caption">Slide4.mp3</property>
+  </chain>
+  <chain id="chain14" out="00:00:10.080">
+    <property name="length">00:00:10.120</property>
+    <property name="eof">pause</property>
+    <property name="resource">slides/Slide5.mp3</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="meta.media.nb_streams">1</property>
+    <property name="meta.media.0.stream.type">audio</property>
+    <property name="meta.media.0.codec.sample_fmt">fltp</property>
+    <property name="meta.media.0.codec.sample_rate">24000</property>
+    <property name="meta.media.0.codec.channels">1</property>
+    <property name="meta.media.0.codec.name">mp3float</property>
+    <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+    <property name="meta.media.0.codec.bit_rate">48000</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="creation_time">2024-03-13T00:28:41</property>
+    <property name="astream">0</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">67bd31f9d7a79a9a9c9fa6ef8fffdc9a</property>
+    <property name="ignore_points">1</property>
+    <property name="shotcut:caption">Slide5.mp3</property>
+  </chain>
+  <chain id="chain15" out="00:00:09.040">
+    <property name="length">00:00:09.080</property>
+    <property name="eof">pause</property>
+    <property name="resource">slides/Slide6.mp3</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="meta.media.nb_streams">1</property>
+    <property name="meta.media.0.stream.type">audio</property>
+    <property name="meta.media.0.codec.sample_fmt">fltp</property>
+    <property name="meta.media.0.codec.sample_rate">24000</property>
+    <property name="meta.media.0.codec.channels">1</property>
+    <property name="meta.media.0.codec.name">mp3float</property>
+    <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+    <property name="meta.media.0.codec.bit_rate">48000</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="creation_time">2024-03-13T00:29:29</property>
+    <property name="astream">0</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">a1b5af5a692e174ab6548a3e1b8a6f5d</property>
+    <property name="ignore_points">1</property>
+    <property name="shotcut:caption">Slide6.mp3</property>
+  </chain>
+  <chain id="chain16" out="00:00:08.800">
+    <property name="length">00:00:08.840</property>
+    <property name="eof">pause</property>
+    <property name="resource">slides/Slide7.mp3</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="meta.media.nb_streams">1</property>
+    <property name="meta.media.0.stream.type">audio</property>
+    <property name="meta.media.0.codec.sample_fmt">fltp</property>
+    <property name="meta.media.0.codec.sample_rate">24000</property>
+    <property name="meta.media.0.codec.channels">1</property>
+    <property name="meta.media.0.codec.name">mp3float</property>
+    <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+    <property name="meta.media.0.codec.bit_rate">48000</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="creation_time">2024-03-13T00:31:04</property>
+    <property name="astream">0</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">41b309e39dcd2709d893f19cf5596e0f</property>
+    <property name="ignore_points">1</property>
+    <property name="shotcut:caption">Slide7.mp3</property>
+  </chain>
+  <chain id="chain17" out="00:00:44.720">
+    <property name="length">00:00:44.760</property>
+    <property name="eof">pause</property>
+    <property name="resource">slides/Slide8.mp3</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="meta.media.nb_streams">1</property>
+    <property name="meta.media.0.stream.type">audio</property>
+    <property name="meta.media.0.codec.sample_fmt">fltp</property>
+    <property name="meta.media.0.codec.sample_rate">24000</property>
+    <property name="meta.media.0.codec.channels">1</property>
+    <property name="meta.media.0.codec.name">mp3float</property>
+    <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+    <property name="meta.media.0.codec.bit_rate">48000</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="creation_time">2024-03-13T00:32:39</property>
+    <property name="astream">0</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">65927e7ef07c97c12a406cff6a29096b</property>
+    <property name="ignore_points">1</property>
+    <property name="shotcut:caption">Slide8.mp3</property>
+  </chain>
+  <chain id="chain18" out="00:00:04.960">
+    <property name="length">00:00:05.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">slides/Slide9.mp3</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="meta.media.nb_streams">1</property>
+    <property name="meta.media.0.stream.type">audio</property>
+    <property name="meta.media.0.codec.sample_fmt">fltp</property>
+    <property name="meta.media.0.codec.sample_rate">24000</property>
+    <property name="meta.media.0.codec.channels">1</property>
+    <property name="meta.media.0.codec.name">mp3float</property>
+    <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+    <property name="meta.media.0.codec.bit_rate">48000</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="creation_time">2024-03-13T00:33:01</property>
+    <property name="astream">0</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">0ef61edf0d59f8fb284294bb3bafa1b4</property>
+    <property name="ignore_points">1</property>
+    <property name="shotcut:caption">Slide9.mp3</property>
+  </chain>
+  <chain id="chain19" out="00:00:03.040">
+    <property name="length">00:00:03.080</property>
+    <property name="eof">pause</property>
+    <property name="resource">slides/Slide10.mp3</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="meta.media.nb_streams">1</property>
+    <property name="meta.media.0.stream.type">audio</property>
+    <property name="meta.media.0.codec.sample_fmt">fltp</property>
+    <property name="meta.media.0.codec.sample_rate">24000</property>
+    <property name="meta.media.0.codec.channels">1</property>
+    <property name="meta.media.0.codec.name">mp3float</property>
+    <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+    <property name="meta.media.0.codec.bit_rate">48000</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="creation_time">2024-03-13T00:33:22</property>
+    <property name="astream">0</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">fbafe4a734e1ea36f136f3e8231b33c1</property>
+    <property name="ignore_points">1</property>
+    <property name="shotcut:caption">Slide10.mp3</property>
+  </chain>
+  <playlist id="playlist0">
+    <property name="shotcut:audio">1</property>
+    <property name="shotcut:name">A1</property>
+    <blank length="00:00:02.040"/>
+    <entry producer="chain10" in="00:00:00.000" out="00:00:14.280"/>
+    <blank length="00:00:02.880"/>
+    <entry producer="chain11" in="00:00:00.000" out="00:00:12.640"/>
+    <blank length="00:00:02.680"/>
+    <entry producer="chain12" in="00:00:00.000" out="00:00:09.120"/>
+    <blank length="00:00:02.560"/>
+    <entry producer="chain13" in="00:00:00.000" out="00:00:20.960"/>
+    <blank length="00:00:02.280"/>
+    <entry producer="chain14" in="00:00:00.000" out="00:00:10.080"/>
+    <blank length="00:00:01.760"/>
+    <entry producer="chain15" in="00:00:00.000" out="00:00:09.040"/>
+    <blank length="00:00:02.560"/>
+    <entry producer="chain16" in="00:00:00.000" out="00:00:08.800"/>
+    <blank length="00:00:02.400"/>
+    <entry producer="chain17" in="00:00:00.000" out="00:00:44.720"/>
+    <blank length="00:00:04.520"/>
+    <entry producer="chain18" in="00:00:00.000" out="00:00:04.960"/>
+    <blank length="00:00:02.480"/>
+    <entry producer="chain19" in="00:00:00.000" out="00:00:03.040"/>
+  </playlist>
+  <producer id="producer10" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">slides/Slide1.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="meta.media.progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">1</property>
+    <property name="meta.media.width">720</property>
+    <property name="meta.media.height">405</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2024-03-13T00:03:38</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">e7bbdfc0b9ff505445d8670bd4f771ee</property>
+    <property name="shotcut:caption">Slide1.png</property>
+    <property name="ignore_points">1</property>
+    <filter id="filter0" out="00:00:17.960">
+      <property name="start">1</property>
+      <property name="level">00:00:00.000=0;00:00:00.960=1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeInBrightness</property>
+      <property name="alpha">1</property>
+      <property name="shotcut:animIn">00:00:01.000</property>
+    </filter>
+    <filter id="filter1" out="00:00:17.960">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="level">00:00:17.000=0;00:00:17.960=-60</property>
+      <property name="mlt_service">volume</property>
+      <property name="shotcut:filter">fadeOutVolume</property>
+      <property name="shotcut:animOut">00:00:01.000</property>
+    </filter>
+  </producer>
+  <producer id="producer11" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">slides/Slide2.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="meta.media.progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">1</property>
+    <property name="meta.media.width">720</property>
+    <property name="meta.media.height">405</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2024-03-13T00:03:38</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">419429086e478375d576ce548e11457b</property>
+    <property name="shotcut:caption">Slide2.png</property>
+    <filter id="filter2" out="00:00:15.080">
+      <property name="start">1</property>
+      <property name="level">00:00:00.000=0;00:00:00.960=1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeInBrightness</property>
+      <property name="alpha">1</property>
+      <property name="shotcut:animIn">00:00:01.000</property>
+    </filter>
+    <filter id="filter3" out="00:00:15.080">
+      <property name="start">1</property>
+      <property name="level">00:00:14.120=1;00:00:15.080=0</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeOutBrightness</property>
+      <property name="alpha">1</property>
+      <property name="shotcut:animOut">00:00:01.000</property>
+    </filter>
+  </producer>
+  <producer id="producer12" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">slides/Slide3.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="meta.media.progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">1</property>
+    <property name="meta.media.width">720</property>
+    <property name="meta.media.height">405</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2024-03-13T00:03:38</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">015acfcb1cbe49d0c277aefb9e188f20</property>
+    <property name="shotcut:caption">Slide3.png</property>
+    <filter id="filter4" out="00:00:11.960">
+      <property name="start">1</property>
+      <property name="level">00:00:00.000=0;00:00:00.960=1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeInBrightness</property>
+      <property name="alpha">1</property>
+      <property name="shotcut:animIn">00:00:01.000</property>
+    </filter>
+    <filter id="filter5" out="00:00:11.960">
+      <property name="start">1</property>
+      <property name="level">00:00:11.000=1;00:00:11.960=0</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeOutBrightness</property>
+      <property name="alpha">1</property>
+      <property name="shotcut:animOut">00:00:01.000</property>
+    </filter>
+  </producer>
+  <producer id="producer13" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">slides/Slide4.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="meta.media.progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">1</property>
+    <property name="meta.media.width">720</property>
+    <property name="meta.media.height">405</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2024-03-13T00:03:38</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">59625a5a439abda85e049cf13676456f</property>
+    <property name="shotcut:caption">Slide4.png</property>
+    <filter id="filter6" out="00:00:23.360">
+      <property name="start">1</property>
+      <property name="level">00:00:00.000=0;00:00:00.960=1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeInBrightness</property>
+      <property name="alpha">1</property>
+      <property name="shotcut:animIn">00:00:01.000</property>
+    </filter>
+    <filter id="filter7" out="00:00:23.360">
+      <property name="start">1</property>
+      <property name="level">00:00:22.400=1;00:00:23.360=0</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeOutBrightness</property>
+      <property name="alpha">1</property>
+      <property name="shotcut:animOut">00:00:01.000</property>
+    </filter>
+  </producer>
+  <producer id="producer14" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">slides/Slide5.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="meta.media.progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">1</property>
+    <property name="meta.media.width">720</property>
+    <property name="meta.media.height">405</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2024-03-13T00:03:38</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">3bdae0661902c939e0e32ef9ba2dc2a3</property>
+    <property name="shotcut:caption">Slide5.png</property>
+    <filter id="filter8" out="00:00:11.920">
+      <property name="start">1</property>
+      <property name="level">00:00:00.000=0;00:00:00.960=1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeInBrightness</property>
+      <property name="alpha">1</property>
+      <property name="shotcut:animIn">00:00:01.000</property>
+    </filter>
+    <filter id="filter9" out="00:00:11.920">
+      <property name="start">1</property>
+      <property name="level">00:00:10.960=1;00:00:11.920=0</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeOutBrightness</property>
+      <property name="alpha">1</property>
+      <property name="shotcut:animOut">00:00:01.000</property>
+    </filter>
+  </producer>
+  <producer id="producer15" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">slides/Slide6.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="meta.media.progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">1</property>
+    <property name="meta.media.width">720</property>
+    <property name="meta.media.height">405</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2024-03-13T00:03:38</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">d263d4119e104d951684ed566ebd7d80</property>
+    <property name="shotcut:caption">Slide6.png</property>
+    <filter id="filter10" out="00:00:11.440">
+      <property name="start">1</property>
+      <property name="level">00:00:00.000=0;00:00:00.960=1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeInBrightness</property>
+      <property name="alpha">1</property>
+      <property name="shotcut:animIn">00:00:01.000</property>
+    </filter>
+    <filter id="filter11" out="00:00:11.440">
+      <property name="start">1</property>
+      <property name="level">00:00:10.480=1;00:00:11.440=0</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeOutBrightness</property>
+      <property name="alpha">1</property>
+      <property name="shotcut:animOut">00:00:01.000</property>
+    </filter>
+  </producer>
+  <producer id="producer16" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">slides/Slide7.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="meta.media.progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">1</property>
+    <property name="meta.media.width">720</property>
+    <property name="meta.media.height">405</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2024-03-13T00:03:38</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">a386c5e12f6134aebf9afbcd68a13a5d</property>
+    <property name="shotcut:caption">Slide7.png</property>
+    <property name="ignore_points">1</property>
+    <filter id="filter12" out="00:00:11.400">
+      <property name="start">1</property>
+      <property name="level">00:00:00.000=0;00:00:00.960=1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeInBrightness</property>
+      <property name="alpha">1</property>
+      <property name="shotcut:animIn">00:00:01.000</property>
+    </filter>
+    <filter id="filter13" out="00:00:11.400">
+      <property name="start">1</property>
+      <property name="level">00:00:10.440=1;00:00:11.400=0</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeOutBrightness</property>
+      <property name="alpha">1</property>
+      <property name="shotcut:animOut">00:00:01.000</property>
+    </filter>
+  </producer>
+  <producer id="producer17" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">slides/Slide8.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="meta.media.progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">1</property>
+    <property name="meta.media.width">720</property>
+    <property name="meta.media.height">405</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2024-03-13T00:03:38</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">86a2872c9458e213723578a910043c2f</property>
+    <property name="shotcut:caption">Slide8.png</property>
+    <filter id="filter14" out="00:00:48.560">
+      <property name="start">1</property>
+      <property name="level">00:00:00.000=0;00:00:00.960=1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeInBrightness</property>
+      <property name="alpha">1</property>
+      <property name="shotcut:animIn">00:00:01.000</property>
+    </filter>
+    <filter id="filter15" out="00:00:48.560">
+      <property name="start">1</property>
+      <property name="level">00:00:47.600=1;00:00:48.560=0</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeOutBrightness</property>
+      <property name="alpha">1</property>
+      <property name="shotcut:animOut">00:00:01.000</property>
+    </filter>
+  </producer>
+  <producer id="producer18" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">slides/Slide9.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="meta.media.progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">1</property>
+    <property name="meta.media.width">720</property>
+    <property name="meta.media.height">405</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2024-03-13T00:03:38</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">b4b68054d2aee12c5f4f000f745deadb</property>
+    <property name="shotcut:caption">Slide9.png</property>
+    <property name="ignore_points">1</property>
+    <filter id="filter16" out="00:00:08.000">
+      <property name="start">1</property>
+      <property name="level">00:00:00.000=0;00:00:00.960=1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeInBrightness</property>
+      <property name="alpha">1</property>
+      <property name="shotcut:animIn">00:00:01.000</property>
+    </filter>
+    <filter id="filter17" out="00:00:08.000">
+      <property name="start">1</property>
+      <property name="level">00:00:07.040=1;00:00:08.000=0</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeOutBrightness</property>
+      <property name="alpha">1</property>
+      <property name="shotcut:animOut">00:00:01.000</property>
+    </filter>
+  </producer>
+  <producer id="producer19" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">slides/Slide10.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="meta.media.progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="format">1</property>
+    <property name="meta.media.width">720</property>
+    <property name="meta.media.height">405</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2024-03-13T00:03:38</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">af6d143e2337b227f188164a8baba876</property>
+    <property name="shotcut:caption">Slide10.png</property>
+    <filter id="filter18" out="00:00:12.920">
+      <property name="start">1</property>
+      <property name="level">00:00:00.000=0;00:00:00.960=1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeInBrightness</property>
+      <property name="alpha">1</property>
+      <property name="shotcut:animIn">00:00:01.000</property>
+    </filter>
+    <filter id="filter19" out="00:00:12.920">
+      <property name="start">1</property>
+      <property name="level">00:00:11.960=1;00:00:12.920=0</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeOutBrightness</property>
+      <property name="alpha">1</property>
+      <property name="shotcut:animOut">00:00:01.000</property>
+    </filter>
+  </producer>
+  <playlist id="playlist1">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V1</property>
+    <entry producer="producer10" in="00:00:00.000" out="00:00:17.960"/>
+    <entry producer="producer11" in="00:00:00.000" out="00:00:15.080"/>
+    <entry producer="producer12" in="00:00:00.000" out="00:00:11.960"/>
+    <entry producer="producer13" in="00:00:00.000" out="00:00:23.360"/>
+    <entry producer="producer14" in="00:00:00.000" out="00:00:11.920"/>
+    <entry producer="producer15" in="00:00:00.000" out="00:00:11.440"/>
+    <entry producer="producer16" in="00:00:00.000" out="00:00:11.400"/>
+    <entry producer="producer17" in="00:00:00.000" out="00:00:48.560"/>
+    <entry producer="producer18" in="00:00:00.000" out="00:00:08.000"/>
+    <entry producer="producer19" in="00:00:00.000" out="00:00:12.920"/>
+  </playlist>
+  <tractor id="tractor0" title="Shotcut version 24.02.29" in="00:00:00.000" out="00:02:52.960">
+    <property name="shotcut">1</property>
+    <property name="shotcut:projectAudioChannels">2</property>
+    <property name="shotcut:projectFolder">0</property>
+    <property name="shotcut:scaleFactor">1.17094</property>
+    <track producer="background"/>
+    <track producer="playlist0" hide="video"/>
+    <track producer="playlist1"/>
+    <transition id="transition0">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition1">
+      <property name="a_track">0</property>
+      <property name="b_track">2</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition2">
+      <property name="a_track">0</property>
+      <property name="b_track">2</property>
+      <property name="version">0.1</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="threads">0</property>
+      <property name="disable">1</property>
+    </transition>
+  </tractor>
+</mlt>

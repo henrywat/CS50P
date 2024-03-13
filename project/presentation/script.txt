@@ -1,0 +1,22 @@
+Hi everyone, my name is Henry Wat and here I am presenting my CS fifty P Final project ((⏱️=1000))titled ((⏱️=1000))Weather Forecast 5 Days.((⏱️=1000)) You are welcome to visit my git hub page to leave comments.
+
+I'm trying something new in my project, it's API calls, it's straight forward by following the API documentation and handling the json response, but I was having trouble making python test case.
+
+There are three additional packages required besides python which are included in requirements.txt
+
+other than main function, there are 3 more functions in the project.py.((⏱️=1000)) these are valid date, ((⏱️=500))to validate the input date. ((⏱️=1500))fetch weather data,((⏱️=500)) sending API request to server and validate the response. ((⏱️=1500))format weather data, ((⏱️=1000))tidy up the response and return useful information.
+
+there are 5 test functions totally. ((⏱️=1000))test validate date and test format weather. ((⏱️=1000))rest of 3 is testing different states of fetch weather data function.
+
+during testing, i found that the API response will change according to time, by doing research, mocking test package helped a lot.
+
+in this project, i setup an virtual environment, activate it, and install the necessary package via requirements.txt
+
+let's see the outcomes of the project. ((⏱️=1500))since it is a 5 days weather forecast ((⏱️=1000))and the presentation date is 12 March 2024, ((⏱️=1000))so there would be no data before 12 march and after 17 march.
+if the input an invalid date like 30 Feb,  u will be asked to enter the date again. ((⏱️=1000))if the input date is out of range, no data will be fetched.((⏱️=1500))
+if input a valid city and date, the weather forecast will be shown.
+for example, Calgary at 2024-3-12, the weather is cloudy and around 7.13 degree celsius
+
+here is the python test result. ((⏱️=1500))all pass! is it good?
+
+That's all of the presentation,((⏱️=1000)) thank you
