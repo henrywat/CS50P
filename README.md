@@ -1,6 +1,8 @@
 # HarvardX - CS50P
 Introduction to Programming with Python
 
+![cert](CS50P.png)
+
 ## [Final Project](https://github.com/henrywat/HarvadX-CS50P/tree/main/project)
 
 ---
