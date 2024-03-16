@@ -1,0 +1,5 @@
+![Deep Thought](deep.png)
+![Home Federal Savings Bank](bank.png)
+![File Extensions](extensions.png)
+![Math Interpreter](interpreter.png)
+![Meal Time](meal.png)
