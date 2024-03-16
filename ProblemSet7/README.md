@@ -1,0 +1,5 @@
+![NUMB3RS](numb3rs.png)
+![Watch on YouTube](watch.png)
+![Working 9 to 5](working.png)
+![Regular, um, Expressions](um.png)
+![Response Validation](response.png)
