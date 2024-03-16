@@ -1,0 +1,6 @@
+![Emojize](emojize.png)
+![Frank, Ian and Glen’s Letters](figlet.png)
+![Adieu, Adieu](adieu.png)
+![Guessing Game](game.png)
+![Little Professor](professor.png)
+![Bitcoin Price Index](bitcoin.png)
